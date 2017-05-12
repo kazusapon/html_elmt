@@ -11,5 +11,5 @@ setup(
         author           = __author__,
         url              = 'https://github.com/kazusapon/html_elmt.git',
         packages         = find_packages(),
-        install_requires = ['html.parser'],
+        install_requires = []
         )
